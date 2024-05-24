@@ -1,11 +1,11 @@
-*{
+  *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     }
     
     body{
-    font-family: "Poppins", sans-serif;
+    font-family:"Poppins",sans-serif;
     }
     
     header{
@@ -15,30 +15,32 @@
     padding: 20px;
     }
     .cabecalho-itens
-{max-width:1980px;
-margin:0 auto;
-display:flex;
-align-items:center;
-justify-content:center;}
 
-.cabecalho-imagem
-{width:10%;
-display: flex;
-justify-content:flex-start;
-align-items:center;}
+    {max-width:1980px;
+    margin:0 auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;}
 
-.titulo_site
-{padding: 50px;
-text-align: center;
-width:50%;
-font:30px;}
+    .cabecalho-imagem
+    {width:10%;
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;}
 
-.sociais{
-display: flex;
-justify-content: flex-end;
-width:25%;
-padding-right:30px;}
+    .titulo_site
+    {padding: 60px;
+    text-align: center;
+    width:50%;
+    
+    font:30px;}
 
-.banner1
-{display:flex;
-justify-content:center;}
+   .sociais{
+   display: flex;
+   justify-content: flex-end;
+   width:25%;
+   padding-right:30px;}
+
+   .banner1
+   {display:flex;
+   justify-content:center;}
