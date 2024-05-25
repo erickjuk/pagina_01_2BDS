@@ -23,7 +23,7 @@
     }
 
   .cabecalho-imagem{
-      width:10%;
+      width: 100px;
   display: flex;
   justify-content:flex-start;
   align-items:center;
@@ -39,7 +39,7 @@
  .sociais{
  display: flex;
  justify-content: flex-end;
- width:25%;
+ width: 15px;
  padding-right:30px;
    }
 
